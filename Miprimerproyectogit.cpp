@@ -7,11 +7,12 @@ NOTA: Estoy siguiendo el curso de Git y Git Hub en Platzi con Freddy Vega!
 #include<time.h>
 
 //Cambio en librerias en la rama master
+//Cambio despues de merge
 
 using namespace std;
 
 int main(){
-    cout << "Hola Mama estoy programando! lml" << endl;
+    cout << "Hola Mama estoy programando!" << endl;
     // Enciende la radio!
     //O pon el live en Yutu!
     return 0;
@@ -20,3 +21,5 @@ int main(){
 /*Este texto se estaa agregando para probar los cambios en las ramas*/
 /*Cambio #1 Aplicado a la rama cambios*/
 //Cambio #2 Aplicado a la rama de cambios
+
+//Cambio despues de merge
