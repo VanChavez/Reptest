@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
     cout << "Hola Mama estoy programando! lml" << endl;
-    cout << "Testing adding changes to the file." << endl;
     // Enciende la radio!
+    //O pon el live en Yutu!
     return 0;
 }
