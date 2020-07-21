@@ -1,2 +1,2 @@
-//Primera linea texto2
-//* Segunda linea Texto 2 *//
+//Primera linea txt2
+//* Segunda linea Txt 2 *//
