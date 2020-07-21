@@ -12,6 +12,7 @@ NOTA: Estoy siguiendo el curso de Git y Git Hub en Platzi con Freddy Vega!
 using namespace std;
 
 int main(){
+    int contador = 01000;
     cout << "Hola Mama estoy programando! lml!" << endl;
 
     /*lml agregado para causar conflicto*/
