@@ -12,7 +12,7 @@ NOTA: Estoy siguiendo el curso de Git y Git Hub en Platzi con Freddy Vega!
 using namespace std;
 
 int main(){
-    cout << "Hola Mama estoy programando! lml!" << endl;
+    cout << "Hola Mama estoy programando!" << endl;
 
     /*lml agregado para causar conflicto*/
 
