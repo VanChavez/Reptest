@@ -15,7 +15,7 @@ int main(){
     int contadorX = 10;
     int contadorY = 10;
     cout << "Hola Mama estoy programando! lml!" << endl;
-
+    cout << "Linea agregada para testear la conexion con llaves" << endl;
     /*lml agregado para causar conflicto*/
 
     // Enciende la radio!
